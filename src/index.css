@@ -199,7 +199,7 @@ All colors MUST be HSL. Verification status color-coded system.
   
   /* Gradient Utilities */
   .gradient-primary {
-    background: var(--gradient-primary);
+    background-image: var(--gradient-primary);
   }
   
   .gradient-glass {
